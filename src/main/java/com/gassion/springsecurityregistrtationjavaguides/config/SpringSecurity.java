@@ -1,4 +1,4 @@
-package com.gassion.springsecurityregistrtationjavaguides.security;
+package com.gassion.springsecurityregistrtationjavaguides.config;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
